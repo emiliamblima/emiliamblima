@@ -58,8 +58,8 @@
 &nbsp;
 
 ## Contacts:
-<a href="mailto:emiliamenezes778@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-<a href="https://www.linkedin.com/in/emiliamblima/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliamenezes778@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliamblima/)&nbsp;
 
 
 
