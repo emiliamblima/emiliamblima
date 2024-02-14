@@ -1,26 +1,67 @@
-# Welcome to my profile! 👋
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/emiliamblima/emiliamblima/blob/master/github-header-image3.png" />
+&nbsp;&nbsp;&nbsp;
 
-Hello, I'm Emilia Lima, a technology enthusiast passionate about software development and creating innovative solutions. This is my corner on GitHub, where I share projects, ideas, and learnings. ✨ 
+<p align="center"> Welcome to my profile! 👋 <br> I'm Emilia Lima, a technology enthusiast passionate about software development and creating innovative solutions. This is my corner on GitHub, where I share projects, ideas, and learnings. ✨ </p>
 
+### About me
+- 🎓 Graduated in Computer Science.
+
+- 👩🏻‍💻 Working as a Jr Web Developer.
+
+- 🚀 Always seeking to learn something new and expand my technological horizons.
+
+&nbsp;&nbsp;&nbsp;
+
+### Analytics
+
+<div  align="center" style="margin-bottom:100px;">
+  
+![Emilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliamblima&show_icons=true&theme=synthwave)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliamblima&layout=donut)](https://github.com/emiliamblima/github-readme-stats)
+
+</div>
+
+&nbsp;&nbsp;&nbsp;
+
+## My Skills
+
+#### Main Stack:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Secondary Stack:
+
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![.NET.js](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+
+#### Databases:
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![My Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+#### Studying in this moment:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliamblima)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://)
 
-### About me
-🎓 Graduated in Computer Science.
-
-👩🏻‍💻 Working as a Jr Web Developer.
-
-🚀 Always seeking to learn something new and expand my technological horizons.
-<hr>
-
-![Emilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliamblima&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliamblima&layout=donut)](https://github.com/emiliamblima/github-readme-stats)
-
-<hr>
 
 ### Thank you for visiting! 🙏
 
 Feel free to explore my projects and get in touch. I'm always open to collaborations and new opportunities for learning and growth. 😊
 
-![Emilia GitHub](https://komarev.com/ghpvc/?username=emiliamblima&color=green)
+
+![Emilia GitHub](https://komarev.com/ghpvc/?username=emiliamblima&color=green)&nbsp;&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
